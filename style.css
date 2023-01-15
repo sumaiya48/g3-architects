@@ -93,7 +93,7 @@ main{
 
 .section-one{
     display: flex;
-    gap: 73px;
+    gap: 30px;
     margin-bottom: 130px;
 }
 .section-one-left{
@@ -102,14 +102,13 @@ main{
     gap: 24px;
    margin-left: 301px;
    margin-top: 85px;
-    /* height: 707;
-    width: 707; */
+    
 
 }
 .section-one-right{
 
     margin-top: 318px;
-    margin-right: 65px;
+    margin-right: 301px;
     gap: 25px;
 }
 .section-one-right-head{
@@ -285,7 +284,7 @@ color: white;
     margin-bottom: 10px;
 }
 
-/* ------------------------------------------------responsive style ----------------------------*/
+/* responsive style */
 
 
 @media screen and (max-width: 576px){
