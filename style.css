@@ -93,17 +93,17 @@ main{
 
 .section-one{
     display: flex;
-    gap: 30px;
+    gap: 73px;
     margin-bottom: 130px;
 }
 .section-one-left{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 24px;
-   margin-left: 150px;
+   margin-left: 301px;
    margin-top: 85px;
-    height: 707;
-    width: 707;
+    /* height: 707;
+    width: 707; */
 
 }
 .section-one-right{
