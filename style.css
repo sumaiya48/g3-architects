@@ -100,15 +100,16 @@ main{
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 24px;
-   margin-left: 301px;
+   margin-left: 150px;
    margin-top: 85px;
-    
+    height: 707;
+    width: 707;
 
 }
 .section-one-right{
 
     margin-top: 318px;
-    margin-right: 301px;
+    margin-right: 65px;
     gap: 25px;
 }
 .section-one-right-head{
@@ -293,7 +294,7 @@ color: white;
     }
     .items{
         flex-direction: column;
-        margin-left: 0px;
+        
     }
 /* section-one */
 
